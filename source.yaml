@@ -1,0 +1,14 @@
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://github.com/freefq/free/blob/master/v2
+# 订阅链接2
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity
+
+# 订阅链接3
+- type: subscribe
+  options:
+    url: https://cdn.jsdelivr.net/gh/freefq/free@master/v2
+  
