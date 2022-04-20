@@ -11,4 +11,8 @@
 - type: subscribe
   options:
     url: https://cdn.jsdelivr.net/gh/freefq/free@master/v2
-  
+    
+# 网页模糊抓取2
+- type: webfuzz
+  options:
+    url: https://blog.a169.org/2022/02/100.html
